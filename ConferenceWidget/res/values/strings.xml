@@ -1,0 +1,10 @@
+<resources>
+    
+    <string name="app_name">ConferenceWidget</string>
+    <string name="url_1">http://users.aber.ac.uk/aos/CSM22/conf1data.php</string>
+    <string name="url_2">http://users.aber.ac.uk/aos/CSM22/conf2data.php</string>
+	<string name="conference_1">Conference 1</string>
+	<string name="conference_2">Conference 2</string>
+	<string name="button_change_conference">Change/Refresh Conference</string>	
+    
+</resources>
